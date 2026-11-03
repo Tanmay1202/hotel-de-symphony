@@ -1,0 +1,435 @@
+{
+  "hotel_name": "Hotel De Symphony by Topaz",
+  "location": "Barnala Kalan Road, Toor Colony, Rai Colony, Nawanshahr, Punjab 144514, India",
+  "contact_numbers": [
+    "+91 98759 54404",
+    "+91 98759 54405",
+    "+91 98759 54406"
+  ],
+  "audit_metadata": {
+    "total_files_inspected": 47,
+    "unique_files": 39,
+    "exact_duplicates": 8,
+    "missing_critical_assets": [
+      "Guest bedrooms / suites (no photos exist in library)",
+      "Guest bathrooms (no photos exist in library)",
+      "Hotel reception / front desk counter (no photos exist in library)",
+      "Swimming pool / gym / health club (claimed on OTAs, no visual evidence in library)"
+    ],
+    "resolution_tiers": {
+      "high_resolution": {
+        "count": 20,
+        "dimensions": "8064x4536 and 6000x3368",
+        "file_sizes": "4.0 MB to 10.3 MB",
+        "primary_uses": ["Full-width Hero", "Editorial feature banners", "High-fidelity galleries"]
+      },
+      "standard_resolution": {
+        "count": 19,
+        "dimensions": "1280x720",
+        "file_sizes": "146 KB to 300 KB",
+        "primary_uses": ["Editorial mosaic cards", "Dining detail insets", "Gallery thumbnails"]
+      }
+    }
+  },
+  "sections": {
+    "hero": {
+      "primary": {
+        "filename": "IMG_2888.JPG.jpeg",
+        "path": "photos/IMG_2888.JPG.jpeg",
+        "dimensions": { "width": 8064, "height": 4536 },
+        "aspect_ratio": "16:9",
+        "subject": "Dusk / Blue-Hour exterior facade of Hotel Symphony by Topaz with illuminated signage and palm trees",
+        "crop_strategy": "object-position: center 40% (preserves illuminated rooftop & entrance signage; crop bottom parking pavement)",
+        "suitability_score": 5
+      },
+      "secondary_alternative": {
+        "filename": "IMG_2926.JPG.jpeg",
+        "path": "photos/IMG_2926.JPG.jpeg",
+        "dimensions": { "width": 8064, "height": 4536 },
+        "aspect_ratio": "16:9",
+        "subject": "Night exterior facade with glowing entrance and rooftop signs",
+        "crop_strategy": "object-position: center 45%",
+        "suitability_score": 3.5
+      }
+    },
+    "property_introduction": [
+      {
+        "filename": "IMG_3615.JPG.jpeg",
+        "path": "photos/IMG_3615.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Intimate boutique lobby lounge under staircase with traditional Indian wall painting, leather tub chair, and warm wall sconce",
+        "role": "Lead intro editorial image",
+        "crop_strategy": "object-position: 45% center"
+      },
+      {
+        "filename": "IMG_2888.JPG.jpeg",
+        "path": "photos/IMG_2888.JPG.jpeg",
+        "dimensions": { "width": 8064, "height": 4536 },
+        "aspect_ratio": "16:9",
+        "subject": "Exterior property establishing portrait",
+        "role": "Secondary architectural detail",
+        "crop_strategy": "object-position: center center"
+      }
+    ],
+    "grand_banquet_and_events": [
+      {
+        "filename": "IMG_3597.JPG.jpeg",
+        "path": "photos/IMG_3597.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Grand panoramic perspective of full banquet hall showing tan leather lounge seating, wooden dining tables, round banquet tables, and illuminated ceiling coffers",
+        "role": "Primary section hero banner",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "IMG_3546.JPG.jpeg",
+        "path": "photos/IMG_3546.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Wedding stage with floral marigold arch, rose-gold sequined skirting, and damask wallpaper",
+        "role": "Wedding & Celebration feature card",
+        "crop_strategy": "object-position: center 60% (crop top left to hide utilitarian washroom sign)"
+      },
+      {
+        "filename": "IMG_3552.JPG.jpeg",
+        "path": "photos/IMG_3552.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Expansive banquet hall showing seating capacity, dark wood pillars, and damask paneling",
+        "role": "Corporate & Social Gatherings card",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "IMG_3563.JPG.jpeg",
+        "path": "photos/IMG_3563.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Round banquet tables with black chair covers and floral sashes on polished marble floor",
+        "role": "Banquet table layout showcase",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "IMG_3602.JPG.jpeg",
+        "path": "photos/IMG_3602.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Opposite panoramic angle of grand banquet hall",
+        "role": "Event gallery showcase",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "IMG_3550.JPG.jpeg",
+        "path": "photos/IMG_3550.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Banquet hall seating leading into back buffet line",
+        "role": "Event gallery showcase",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "IMG_3558.JPG.jpeg",
+        "path": "photos/IMG_3558.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Close-up of dressed round table with floral centerpieces and silver charger plates",
+        "role": "Table styling detail",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5311T01.JPG.jpeg",
+        "path": "photos/AMIT SINGH20260708_5311T01.JPG.jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Banquet hall with celebration floral stage backdrop and DJ sound setup",
+        "role": "Event setup archive",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5312T01.JPG.jpeg",
+        "path": "photos/AMIT SINGH20260708_5312T01.JPG.jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Banquet hall viewed past foreground floral arrangement",
+        "role": "Atmospheric event detail",
+        "crop_strategy": "object-position: right center"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5313T01.JPG.jpeg",
+        "path": "photos/AMIT SINGH20260708_5313T01.JPG.jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Hall overview showing combined lounge and dining table layout",
+        "role": "Event space capacity showcase",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5316T01.JPG.jpeg",
+        "path": "photos/AMIT SINGH20260708_5316T01.JPG.jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Repetitive rhythmic round tables and architectural wood pillars",
+        "role": "Event gallery image",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5322T01.JPG.jpeg",
+        "path": "photos/AMIT SINGH20260708_5322T01.JPG.jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Banquet hall dining with buffet line and Indian classical artwork",
+        "role": "Event catering showcase",
+        "crop_strategy": "object-position: center center"
+      }
+    ],
+    "dining_and_restaurant": [
+      {
+        "filename": "IMG_3580.JPG.jpeg",
+        "path": "photos/IMG_3580.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Dramatic vanishing-point perspective down executive dining table set with gold brass thalis, wine-glass folded napkins, and pink carnation runner",
+        "role": "Primary Restaurant & Dining section hero card",
+        "crop_strategy": "object-position: center center (keep symmetrical focal axis)"
+      },
+      {
+        "filename": "IMG_3579.JPG.jpeg",
+        "path": "photos/IMG_3579.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Side view of long executive dining table with carved wooden chairs and sage cushions",
+        "role": "Private Dining & Hospitality card",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "IMG_3594.JPG(1).jpeg",
+        "path": "photos/IMG_3594.JPG(1).jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Wide angle of executive dining zone with damask and textured acoustic wall paneling",
+        "role": "Private Dining room overview",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5377T01.JPG(1).jpeg",
+        "path": "photos/AMIT SINGH20260708_5377T01.JPG(1).jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Restaurant banquette seating with plum and teal tub chairs, laser-cut backlit decorative wall panel, and table settings",
+        "role": "In-house Multi-Cuisine Restaurant atmosphere",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5374T01.JPG(1).jpeg",
+        "path": "photos/AMIT SINGH20260708_5374T01.JPG(1).jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Sculptural curved restaurant buffet counter with pendant lights, spice jars, and modern false ceiling",
+        "role": "Culinary Counter & Bar overview",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5381T01.JPG.jpeg",
+        "path": "photos/AMIT SINGH20260708_5381T01.JPG.jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Sweeping ceiling architectural design and buffet counter",
+        "role": "Architectural dining detail",
+        "crop_strategy": "object-position: left center (avoid unposed staff on right)"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5376T01.JPG(1).jpeg",
+        "path": "photos/AMIT SINGH20260708_5376T01.JPG(1).jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Intimate dining booth with velvet plum upholstery",
+        "role": "Intimate dining card",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5323T01.JPG.jpeg",
+        "path": "photos/AMIT SINGH20260708_5323T01.JPG.jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Long linear buffet counter with stainless steel chafing dishes and decorative urns",
+        "role": "Buffet & Catering capabilities",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5326T01.JPG.jpeg",
+        "path": "photos/AMIT SINGH20260708_5326T01.JPG.jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Close-up of buffet counter with pink metal lanterns, brass candleholders, and diamond mirror wall",
+        "role": "Catering detail inset",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5329T01.JPG(1).jpeg",
+        "path": "photos/AMIT SINGH20260708_5329T01.JPG(1).jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Marble-top round table with traditional gold charger plates and carved chairs",
+        "role": "Fine dining table setting detail",
+        "crop_strategy": "object-position: center center"
+      }
+    ],
+    "lounge_and_lifestyle": [
+      {
+        "filename": "AMIT SINGH20260708_5365T01.JPG(1).jpeg",
+        "path": "photos/AMIT SINGH20260708_5365T01.JPG(1).jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Casual cafe lounge with pink metal open bookshelf divider, green lounge seating, and natural light",
+        "role": "Boutique cafe & lounge feature",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5366T01.JPG(1).jpeg",
+        "path": "photos/AMIT SINGH20260708_5366T01.JPG(1).jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Curated bookshelf corner with classic novels and culinary books",
+        "role": "Lifestyle & reading corner vignette",
+        "crop_strategy": "object-position: center center"
+      },
+      {
+        "filename": "IMG_3584.JPG.jpeg",
+        "path": "photos/IMG_3584.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Lounge table with tan suede sofa seating, floral centerpiece, and gold place settings",
+        "role": "Lounge seating detail",
+        "crop_strategy": "object-position: center center"
+      }
+    ],
+    "family_and_recreation": [
+      {
+        "filename": "IMG_3616.JPG.jpeg",
+        "path": "photos/IMG_3616.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Children's indoor arcade and game zone featuring Spin & Stop wheel, Colorama, claw machine, and plush toy prizes",
+        "role": "Family & Children's Entertainment amenity card",
+        "crop_strategy": "object-position: center center"
+      }
+    ],
+    "curated_gallery_supplementary": [
+      {
+        "filename": "IMG_2927.JPG.jpeg",
+        "path": "photos/IMG_2927.JPG.jpeg",
+        "dimensions": { "width": 8064, "height": 4536 },
+        "aspect_ratio": "16:9",
+        "subject": "Alternate night exterior showing landscaping hedge and street level approach"
+      },
+      {
+        "filename": "IMG_3560.JPG.jpeg",
+        "path": "photos/IMG_3560.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Banquet hall diagonal view with buffet line and Indian paintings"
+      },
+      {
+        "filename": "IMG_3561.JPG.jpeg",
+        "path": "photos/IMG_3561.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Banquet hall tighter angle"
+      },
+      {
+        "filename": "IMG_3576.JPG.jpeg",
+        "path": "photos/IMG_3576.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Round banquet table with gold wallpaper background"
+      },
+      {
+        "filename": "IMG_3599.JPG.jpeg",
+        "path": "photos/IMG_3599.JPG.jpeg",
+        "dimensions": { "width": 6000, "height": 3368 },
+        "aspect_ratio": "16:9",
+        "subject": "Banquet hall mid-room angle with sofa and glass doors"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5317T01.JPG.jpeg",
+        "path": "photos/AMIT SINGH20260708_5317T01.JPG.jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Close-up of engraved brass plates and gold goblets"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5319T01.JPG.jpeg",
+        "path": "photos/AMIT SINGH20260708_5319T01.JPG.jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Alternate angle of brass place settings on chevron tablecloth"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5325T01.JPG.jpeg",
+        "path": "photos/AMIT SINGH20260708_5325T01.JPG.jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Round dining table with floral rose tablecloth"
+      },
+      {
+        "filename": "AMIT SINGH20260708_5379T01.JPG.jpeg",
+        "path": "photos/AMIT SINGH20260708_5379T01.JPG.jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Restaurant perspective showing backlit wall panel"
+      }
+    ],
+    "excluded_utility": [
+      {
+        "filename": "AMIT SINGH20260708_5327T01.JPG.jpeg",
+        "path": "photos/AMIT SINGH20260708_5327T01.JPG.jpeg",
+        "dimensions": { "width": 1280, "height": 720 },
+        "aspect_ratio": "16:9",
+        "subject": "Stacked crockery and plastic-wrapped bowls on counter",
+        "reason_for_exclusion": "Pure utilitarian back-of-house catering preparation; degrades luxury aesthetic if displayed on marketing website"
+      }
+    ]
+  },
+  "exact_duplicates_discard_list": [
+    {
+      "duplicate_filename": "AMIT SINGH20260708_5329T01.JPG.jpeg",
+      "canonical_filename": "AMIT SINGH20260708_5329T01.JPG(1).jpeg",
+      "md5": "0b0805177a3d3c87f94084361596541f"
+    },
+    {
+      "duplicate_filename": "AMIT SINGH20260708_5365T01.JPG.jpeg",
+      "canonical_filename": "AMIT SINGH20260708_5365T01.JPG(1).jpeg",
+      "md5": "bbd8f888f7b7cb1dfd4ec74db8cf8221"
+    },
+    {
+      "duplicate_filename": "AMIT SINGH20260708_5366T01.JPG.jpeg",
+      "canonical_filename": "AMIT SINGH20260708_5366T01.JPG(1).jpeg",
+      "md5": "e0e241e17d91b8d2771d9d9e45e751ee"
+    },
+    {
+      "duplicate_filename": "AMIT SINGH20260708_5374T01.JPG.jpeg",
+      "canonical_filename": "AMIT SINGH20260708_5374T01.JPG(1).jpeg",
+      "md5": "df06cb556271c77f0c1b4ea5c4ddb364"
+    },
+    {
+      "duplicate_filename": "AMIT SINGH20260708_5376T01.JPG.jpeg",
+      "canonical_filename": "AMIT SINGH20260708_5376T01.JPG(1).jpeg",
+      "md5": "17387431267b1406dc53e831ffc25492"
+    },
+    {
+      "duplicate_filename": "AMIT SINGH20260708_5376T01.JPG(2).jpeg",
+      "canonical_filename": "AMIT SINGH20260708_5376T01.JPG(1).jpeg",
+      "md5": "17387431267b1406dc53e831ffc25492"
+    },
+    {
+      "duplicate_filename": "AMIT SINGH20260708_5377T01.JPG.jpeg",
+      "canonical_filename": "AMIT SINGH20260708_5377T01.JPG(1).jpeg",
+      "md5": "d985aee30f0f8a846101c7f495ec9701"
+    },
+    {
+      "duplicate_filename": "IMG_3594.JPG.jpeg",
+      "canonical_filename": "IMG_3594.JPG(1).jpeg",
+      "md5": "8067b07044ea1d75baeb231bbd43cbe2"
+    }
+  ]
+}

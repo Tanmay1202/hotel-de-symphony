@@ -1,0 +1,112 @@
+@import "tailwindcss";
+
+@theme {
+  --color-canvas-dark: #11141a;
+  --color-canvas-card: #181c24;
+  --color-canvas-elevated: #202530;
+  --color-canvas-light: #fbf9f5;
+  --color-canvas-muted: #f2efeb;
+
+  --color-gold-primary: #c5a265;
+  --color-gold-hover: #d6b57c;
+  --color-gold-subtle: rgba(197, 162, 101, 0.12);
+  --color-gold-border: rgba(197, 162, 101, 0.28);
+
+  --color-text-on-dark: #f8fafc;
+  --color-text-muted-dark: #94a3b8;
+  --color-text-on-light: #1e2229;
+  --color-text-muted-light: #64748b;
+
+  --font-serif: var(--font-playfair), Georgia, serif;
+  --font-sans: var(--font-inter), system-ui, -apple-system, sans-serif;
+}
+
+:root {
+  --background: #11141a;
+  --foreground: #f8fafc;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-inter), system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ── Typography Enhancements ── */
+.font-editorial {
+  font-family: var(--font-playfair), Georgia, serif;
+  letter-spacing: -0.01em;
+}
+
+.font-kicker {
+  font-family: var(--font-inter), system-ui, sans-serif;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+/* ── Custom Glassmorphism ── */
+.glass-header {
+  background-color: rgba(17, 20, 26, 0.88);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-bottom: 1px solid rgba(197, 162, 101, 0.2);
+}
+
+.glass-card {
+  background: rgba(24, 28, 36, 0.75);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(197, 162, 101, 0.2);
+}
+
+/* ── Gold Accent Lines & Borders ── */
+.gold-border-glow {
+  border: 1px solid rgba(197, 162, 101, 0.35);
+  box-shadow: 0 0 25px rgba(197, 162, 101, 0.08);
+}
+
+.gold-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent 0%, rgba(197, 162, 101, 0.5) 50%, transparent 100%);
+}
+
+/* ── Custom Scrollbar ── */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0d0f14;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2a313d;
+  border-radius: 4px;
+  border: 2px solid #0d0f14;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #c5a265;
+}
+
+/* ── Accessibility: Reduced Motion ── */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

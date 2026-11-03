@@ -1,0 +1,54 @@
+# ==============================================================================
+# Vercel & Next.js Deployment Ignore
+# ==============================================================================
+
+# Dependencies (Installed fresh in Vercel CI via package.json & package-lock.json)
+node_modules/
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# Next.js Build Artifacts & Turbopack Cache
+/.next/
+/out/
+/build
+/dist
+
+# Raw Local Assets & Audit Data (Useless for production — web assets live in /public)
+/photos/
+/CONTACT_SHEET/
+/screenshots/
+/scratch/
+*.log
+
+# TypeScript Local Incremental Cache
+*.tsbuildinfo
+
+# Local Environment Variables & Vercel Project Link
+.env*.local
+.env
+.vercel
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# IDE & Editor Configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# Temporary Scratch Files & Python Artifacts
+*.tmp
+*.bak
+*.pyc
+__pycache__/
